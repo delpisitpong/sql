@@ -6,7 +6,7 @@ SELECT *
 FROM employees;
 
 
---- Inserting sample data into the customer table
+-- Inserting sample data into the customer table
 INSERT INTO customer (customer_id, first_name, last_name, phone_number, c_location, city, postal_code) 
 VALUES
     ('C001', 'John', 'Doe', '1234567890', '123 Main St', 'Springfield', '12345'),
