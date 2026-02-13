@@ -1,4 +1,4 @@
---- Data Definition Language (DDL)
+-- [ Data Definition Language (DDL) ]
 
 
 -- Creating the customer table

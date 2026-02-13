@@ -1,4 +1,4 @@
--- Data Manipulation Language (DML) SQL
+-- [ Data Manipulation Language (DML) SQL ]
 
 
 -- Selecting all records from the employees table

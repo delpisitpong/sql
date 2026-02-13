@@ -1,9 +1,4 @@
--- Subquery Syntax
-SELECT first_name, last_name, salary
-FROM hr.employees
-WHERE salary < (SELECT salary
-                FROM hr.employees
-                WHERE first_name = 'Lisa');
+-- [ Subquery Practice Exercises ]
 
 
 -- Display the first_name, last_name, and salary of all employees who earn more than employee 149.
