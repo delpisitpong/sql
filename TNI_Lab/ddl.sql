@@ -1,7 +1,6 @@
 -- [ Data Definition Language (DDL) ]
 
 
--- TNI Practical Exercise 1: DDL Statements
 -- Creating the customer table
 CREATE TABLE customer (
     customer_id     VARCHAR(4)     PRIMARY KEY,
@@ -39,7 +38,6 @@ ALTER TABLE customer
 RENAME TO clients;
 
 
--- TNI Practical Exercise 2: DDL Statements
 -- Creating the animal_treatment table
 CREATE TABLE animal_treatment (
  t_id       CHAR(4)         PRIMARY KEY,
