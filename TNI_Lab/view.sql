@@ -8,5 +8,6 @@ AS SELECT course_id, assignment_name, due_date
    WHERE course_id = 'DAT-101' AND a_status = 'NOT_SUBMIT';
    
 
+
 SELECT *
 FROM my_view;
