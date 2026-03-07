@@ -1,0 +1,11 @@
+# Force GitHub to treat SQL files as SQL
+*.sql linguist-language=SQL linguist-detectable=true
+
+# Oracle PL/SQL files (optional if you use separate extension)
+*.pls linguist-language=PLSQL linguist-detectable=true
+*.plsql linguist-language=PLSQL linguist-detectable=true
+*.pks linguist-language=PLSQL linguist-detectable=true
+*.pkb linguist-language=PLSQL linguist-detectable=true
+*.prc linguist-language=PLSQL linguist-detectable=true
+*.fnc linguist-language=PLSQL linguist-detectable=true
+*.trg linguist-language=PLSQL linguist-detectable=true
