@@ -8,7 +8,7 @@ FROM employees;
 
 
 UPDATE customer
-SET phone_number = '1112223333'
+SET phone_number = '111222333'
 WHERE customer_id = 'C001';
 
 
