@@ -1,7 +1,3 @@
--- language=SQL
-
-
-
 CREATE TABLE customer (
     customer_id     VARCHAR(4)     PRIMARY KEY,
     first_name      VARCHAR(20)    NOT NULL,

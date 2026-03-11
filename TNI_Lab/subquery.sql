@@ -1,7 +1,3 @@
--- language=SQL
-
-
-
 SELECT first_name, last_name, salary
 FROM hr.employees
 WHERE salary > (SELECT salary

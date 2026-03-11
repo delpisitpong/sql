@@ -1,7 +1,3 @@
--- language=SQL
-
-
-
 CREATE VIEW my_view
 AS SELECT course_id, assignment_name, due_date
    FROM my_assignment

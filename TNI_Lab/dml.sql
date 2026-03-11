@@ -1,7 +1,3 @@
--- language=SQL
-
-
-
 SELECT *
 FROM employees;
 

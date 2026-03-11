@@ -1,7 +1,3 @@
--- language=PLSQL
-
-
-
 DECLARE
     v_emp_hiredate  employees.hire_date%TYPE;
     v_emp_salary    employees.salary%TYPE;

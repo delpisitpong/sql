@@ -1,7 +1,3 @@
--- language=SQL
-
-
-
 GRANT SELECT, INSERT ON customer TO tni_user;
 
 

@@ -1,7 +1,3 @@
--- language=SQL
-
-
-
 SELECT last_name, job_title
 FROM hr.employees e INNER JOIN hr.jobs j ON e.job_id = j.job_id
 WHERE job_title = 'Programmer';
